@@ -1,2 +1,2 @@
-# ComputerSociety
+# GoJarol
 Aprender a la jarocha
