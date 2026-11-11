@@ -1,2 +1,2 @@
 # ComputerSociety
-Hackaton 2026
+Aprender a la jarocha
